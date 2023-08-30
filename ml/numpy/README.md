@@ -1,8 +1,10 @@
-# Numpy(7/25)
+# Numpy(11/25)
 
 
-- [01.数组的创建方式和类型](./ndarray-denfine.ipynb)
+- [01.数组创建方式和类型](./ndarray-denfine.ipynb)
 - [02.多维数组](./multi-dimensional-ndarray.ipynb)
-- [03.数组的索引和切片](./index-and-slice.ipynb)
-- [04.数组的更新](./ndarray-update.ipynb)
+- [03.数组索引和切片](./index-and-slice.ipynb)
+- [04.数组更新](./ndarray-update.ipynb)
+- [05.数组广播](./broadcast.ipynb)
+- [06.数组形状操作](./shape-operation.ipynb)
 
