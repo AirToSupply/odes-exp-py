@@ -1,4 +1,4 @@
-# Numpy(11/25)
+# Numpy(12/25)
 
 
 - [01.数组创建方式和类型](./ndarray-denfine.ipynb)
@@ -7,4 +7,5 @@
 - [04.数组更新](./ndarray-update.ipynb)
 - [05.数组广播](./broadcast.ipynb)
 - [06.数组形状操作](./shape-operation.ipynb)
+- [07.数组拷贝](./copy.ipynb)
 
