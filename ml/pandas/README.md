@@ -1,4 +1,4 @@
-# Pandas(33/[26,71])
+# Pandas(41/[26,71])
 
 - [01.基本数据结构-Series](./series.ipynb)
 - [02.基本数据结构-DataFrame](./dataframe.ipynb)
