@@ -9,4 +9,6 @@
 - [06.数组形状操作](./shape-operation.ipynb)
 - [07.数组拷贝](./copy.ipynb)
 - [08.文件操纵](./file-operation.ipynb)
+- [09.缺失值处理](./missing-values-process.ipynb)
+
 
