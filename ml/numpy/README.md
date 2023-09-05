@@ -1,4 +1,4 @@
-# Numpy(14/25)
+# Numpy(18/25)
 
 
 - [01.数组创建方式和类型](./ndarray-denfine.ipynb)
@@ -11,5 +11,5 @@
 - [08.文件操纵](./file-operation.ipynb)
 - [09.缺失值处理](./missing-values-process.ipynb)
 - [10.生成随机数](./random.ipynb)
-
+- [11.通用函数](./common-functions.ipynb)
 
