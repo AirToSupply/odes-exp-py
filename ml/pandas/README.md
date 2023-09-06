@@ -5,7 +5,7 @@
 - [03.索引操作](./index-operation.ipynb)
 - [04.对齐运算](./alignment-operation.ipynb)
 - [05.函数应用](./function-application.ipynb)
-- [06.层级索引]()
+- [06.层级索引](./level-index.ipynb)
 - [07.统计计算]()
 - [08.数据加载]()
 - [09.数据清洗]()
