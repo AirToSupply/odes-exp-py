@@ -1,4 +1,4 @@
-# Numpy(18/25)
+# Numpy
 
 
 - [01.数组创建方式和类型](./ndarray-denfine.ipynb)
