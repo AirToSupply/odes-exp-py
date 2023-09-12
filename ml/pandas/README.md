@@ -1,4 +1,4 @@
-# Pandas(66/[26,71])
+# Pandas(69/[26,71])
 
 - [01.Series](./series.ipynb)
 - [02.DataFrame](./dataframe.ipynb)
