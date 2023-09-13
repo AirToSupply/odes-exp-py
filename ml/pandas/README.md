@@ -1,4 +1,4 @@
-# Pandas(69/[26,71])
+# Pandas
 
 - [01.Series](./series.ipynb)
 - [02.DataFrame](./dataframe.ipynb)
@@ -10,5 +10,5 @@
 - [08.数据加载](./data-loading.ipynb)
 - [09.数据清洗](./data-cleaning.ipynb)
 - [10.数据规整](./data-wrangling.ipynb)
-- [11.数据聚合]()
+- [11.数据聚合](./data-aggregation.ipynb)
 
